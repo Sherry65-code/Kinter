@@ -52,7 +52,7 @@ kinter.run()<br>
 <br><br>
 <h2>Result</h2>
 <br><br>
-<img src="https://raw.githubusercontent.com/Sherry65-code/Kinter/main/img.png" height="400">
+<img src="https://github.com/Sherry65-code/Kinter/blob/main/img.png?raw=true" height="400">
 <br><br>
 <hr>
 <br>

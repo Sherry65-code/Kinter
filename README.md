@@ -48,12 +48,11 @@ kinter.setTitle("Its kinter")<br>
 kinter.setIcon("sample.png")<br>
 kinter.setResizable(False)<br>
 kinter.run()<br>
-
 </code>
 <br><br>
 <h2>Result</h2>
 <br><br>
-<img src="https://raw.githubusercontent.com/Sherry65-code/Kinter/main/sample.png" height="400">
+<img src="https://raw.githubusercontent.com/Sherry65-code/Kinter/main/img.png" height="400">
 <br><br>
 <hr>
 <br>
